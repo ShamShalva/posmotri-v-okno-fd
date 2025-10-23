@@ -165,7 +165,6 @@ input {
   display: flex;
   flex-direction: column;
   overflow-y: auto;
-  overflow-x: hidden;
   gap: 30px;
   position: relative;
 }
